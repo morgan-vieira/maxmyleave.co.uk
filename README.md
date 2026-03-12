@@ -12,16 +12,16 @@
 
 ## What is it?
 
-A tool that tells you the **exact days to book off work** by bridging bank holidays, long weekends, and gaps in the calendar — maximising the number of consecutive days off for every day of annual leave you spend.
+A tool that tells you the **exact days to book off work** by bridging bank holidays, long weekends, and gaps in the calendar. Which should (in theory) maxmimise the number of consecutive days off for every day of annual leave you spend.
 
 ## Features
 
-- **Smart leave optimisation** — identifies up to 5 optimal leave plans ranked by break length and efficiency (free days gained per leave day spent)
-- **Three strategy types** — bridges gaps between bank holiday clusters, extends clusters at either end, or creates standalone long weekends (Friday/Monday bookings)
-- **Must-have dates** — specify dates you need off regardless, and they'll be factored into the plan
-- **UK region support** — covers England & Wales, Scotland, and Northern Ireland using the official GOV.UK bank holidays API
-- **Remaining allowance tracking** — warns you if a plan would exceed your annual leave balance
-- **Interactive calendar** — colour-coded view of your full year, showing bank holidays, booked leave, and resulting breaks at a glance
+- **Smart leave optimisation**: identifies up to 5 optimal leave plans ranked by break length and efficiency (free days gained per leave day spent)
+- **Three strategy types**: bridges gaps between bank holiday clusters, extends clusters at either end, or creates standalone long weekends (Friday/Monday bookings)
+- **Must-have dates**: specify dates you need off regardless, and they'll be factored into the plan
+- **UK region support**: covers England & Wales, Scotland, and Northern Ireland using the official GOV.UK bank holidays API
+- **Remaining allowance tracking**: warns you if a plan would exceed your annual leave balance
+- **Interactive calendar**: colour-coded view of your full year, showing bank holidays, booked leave, and resulting breaks at a glance
 
 ## Why does this exist?
 
